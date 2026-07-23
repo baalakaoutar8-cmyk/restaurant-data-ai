@@ -1,0 +1,14 @@
+[
+    { "country": "Qatar", "city": "Doha", "priority": 1 },
+    { "country": "Qatar", "city": "Al Rayyan", "priority": 1 },
+
+    { "country": "Qatar", "city": "Al Wakrah", "priority": 2 },
+    { "country": "Qatar", "city": "Lusail", "priority": 2 },
+    { "country": "Qatar", "city": "Umm Salal", "priority": 2 },
+
+    { "country": "Qatar", "city": "Al Khor", "priority": 3 },
+    { "country": "Qatar", "city": "Dukhan", "priority": 3 },
+    { "country": "Qatar", "city": "Mesaieed", "priority": 3 },
+    { "country": "Qatar", "city": "Al Shamal", "priority": 3 },
+    { "country": "Qatar", "city": "Al Daayen", "priority": 3 }
+]

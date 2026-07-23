@@ -1,0 +1,17 @@
+[
+    { "country": "United Arab Emirates", "city": "Dubai", "priority": 1 },
+    { "country": "United Arab Emirates", "city": "Abu Dhabi", "priority": 1 },
+    { "country": "United Arab Emirates", "city": "Sharjah", "priority": 1 },
+
+    { "country": "United Arab Emirates", "city": "Ajman", "priority": 2 },
+    { "country": "United Arab Emirates", "city": "Al Ain", "priority": 2 },
+    { "country": "United Arab Emirates", "city": "Ras Al Khaimah", "priority": 2 },
+    { "country": "United Arab Emirates", "city": "Fujairah", "priority": 2 },
+
+    { "country": "United Arab Emirates", "city": "Umm Al Quwain", "priority": 3 },
+    { "country": "United Arab Emirates", "city": "Khor Fakkan", "priority": 3 },
+    { "country": "United Arab Emirates", "city": "Kalba", "priority": 3 },
+    { "country": "United Arab Emirates", "city": "Dibba Al Fujairah", "priority": 3 },
+    { "country": "United Arab Emirates", "city": "Madinat Zayed", "priority": 3 },
+    { "country": "United Arab Emirates", "city": "Jebel Ali", "priority": 3 }
+]

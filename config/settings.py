@@ -1,0 +1,5 @@
+"""
+Configuration du projet.
+"""
+
+GOOGLE_API_KEY = "AIzaSyBHJ2kSY9cwGIsT9fdTr6_Z5EmrMAj8uW8"

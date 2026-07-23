@@ -1,0 +1,364 @@
+[
+    {
+        "country": "Morocco",
+        "city": "Casablanca",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Rabat",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Marrakech",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Tanger",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Agadir",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Fès",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Meknès",
+        "priority": 1
+    },
+    {
+        "country": "Morocco",
+        "city": "Oujda",
+        "priority": 1
+    },
+
+    {
+        "country": "Morocco",
+        "city": "Tétouan",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Chefchaouen",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Essaouira",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Safi",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Nador",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "El Jadida",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Kénitra",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Mohammédia",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Ifrane",
+        "priority": 2
+    },
+    {
+        "country": "Morocco",
+        "city": "Dakhla",
+        "priority": 2
+    },
+
+    {
+        "country": "Morocco",
+        "city": "Settat",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Berrechid",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Benslimane",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Salé",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Témara",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Skhirat",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Khemisset",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Sidi Kacem",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Sidi Slimane",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Al Hoceïma",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Larache",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Ksar El Kebir",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Fnideq",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "M'diq",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Ouezzane",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Azrou",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Sefrou",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Taza",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Taounate",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "El Hajeb",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "El Kelâa des Sraghna",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Benguérir",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Youssoufia",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Chichaoua",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Inezgane",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Aït Melloul",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Taroudant",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Tiznit",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Chtouka Aït Baha",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Berkane",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Saïdia",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Taourirt",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Jerada",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Driouch",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Figuig",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Béni Mellal",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Khouribga",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Khénifra",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Fquih Ben Salah",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Azilal",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Errachidia",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Ouarzazate",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Tinghir",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Zagora",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Midelt",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Rissani",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Guelmim",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Tan-Tan",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Sidi Ifni",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Laâyoune",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Boujdour",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Tarfaya",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Es-Smara",
+        "priority": 3
+    },
+    {
+        "country": "Morocco",
+        "city": "Aousserd",
+        "priority": 3
+    }
+]

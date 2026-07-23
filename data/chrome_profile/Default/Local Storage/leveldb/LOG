@@ -1,0 +1,15 @@
+2026/07/23-16:29:03.836 544 Reusing MANIFEST C:\Users\PC\stage_project\Restaurant-Data-AI\data\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/23-16:29:03.846 544 Recovering log #27
+2026/07/23-16:29:03.850 544 Reusing old log C:\Users\PC\stage_project\Restaurant-Data-AI\data\chrome_profile\Default\Local Storage\leveldb/000027.log 
+2026/07/23-16:30:03.872 4b9c Level-0 table #31: started
+2026/07/23-16:30:03.885 4b9c Level-0 table #31: 18721 bytes OK
+2026/07/23-16:30:03.888 4b9c Delete type=0 #27
+2026/07/23-16:30:03.893 544 Compacting 4@0 + 1@1 files
+2026/07/23-16:30:03.928 544 Generated table #32@0: 16 keys, 2682 bytes
+2026/07/23-16:30:03.928 544 Compacted 4@0 + 1@1 files => 2682 bytes
+2026/07/23-16:30:03.930 544 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/23-16:30:03.931 544 Delete type=2 #20
+2026/07/23-16:30:03.931 544 Delete type=2 #23
+2026/07/23-16:30:03.931 544 Delete type=2 #25
+2026/07/23-16:30:03.932 544 Delete type=2 #28
+2026/07/23-16:30:03.932 544 Delete type=2 #31
