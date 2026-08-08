@@ -130,3 +130,25 @@ class Storage:
         logger.info(
             "Stockage vidé."
         )
+
+    # ---------------------------------------------------------
+
+    def load(self) -> list[dict]:
+        """
+        Charge les restaurants depuis le fichier CSV du pays.
+        """
+        output_file = self.output_dir / f"{self.country}.csv"
+        
+        if not output_file.exists():
+            logger.warning("Aucun fichier CSV trouvé pour : %s", output_file)
+            return []
+
+        df = pd.read_csv(output_file, encoding="utf-8-sig")
+        
+        # Remplace les NaN par None pour manipuler facilement les dictionnaires
+        df = df.where(pd.notnull(df), None)
+        
+        self.restaurants = df.to_dict(orient="records")
+        logger.info("%s restaurants chargés depuis %s", len(self.restaurants), output_file)
+        
+        return self.restaurants

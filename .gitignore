@@ -1,0 +1,11 @@
+# Exclure le fichier contenant les clés secrètes
+.env
+
+# Exclure les fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Exclure les environnements virtuels
+.venv/
+env/
+venv/

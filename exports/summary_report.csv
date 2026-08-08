@@ -1,0 +1,786 @@
+country,city,nombre_restaurants,note_moyenne,total_avis
+BAHRAIN,A'ali,60,,0
+BAHRAIN,Adliya,1,,0
+BAHRAIN,Amwaj Islands,16,,0
+BAHRAIN,Arad,13,,0
+BAHRAIN,Barbar,51,,0
+BAHRAIN,Budaiya,3,,0
+BAHRAIN,Busaiteen,2,,0
+BAHRAIN,Diplomatic Area,60,,0
+BAHRAIN,Galali,2,,0
+BAHRAIN,Hamad Town,1,,0
+BAHRAIN,Hamala,12,,0
+BAHRAIN,Hidd,13,,0
+BAHRAIN,Isa Town,57,,0
+BAHRAIN,Jannusan,9,,0
+BAHRAIN,Juffair,57,,0
+BAHRAIN,Karbabad,2,,0
+BAHRAIN,Manama,47,,0
+BAHRAIN,Muharraq,20,,0
+BAHRAIN,Riffa,17,,0
+BAHRAIN,Saar,12,,0
+BAHRAIN,Sanabis,3,,0
+BAHRAIN,Seef,48,,0
+BAHRAIN,Sitra,23,,0
+BAHRAIN,Tubli,1,,0
+BAHRAIN,Zallaq,11,,0
+Bahrain,Muharraq,307,,0
+Bahrain,Sanabis,20,4.5,0
+Bahrain,Seef,20,4.66,0
+Bahrain,Sitra,51,4.37,0
+Bahrain,Zallaq,20,4.35,0
+KUWAIT,Kuwait City,38,,0
+Kuwait,Ahmadi,200,,0
+Kuwait,Fahaheel,32,,0
+Kuwait,Farwaniya,155,,0
+Kuwait,Hawalli,335,,0
+Kuwait,Jahra,98,,0
+Kuwait,Kuwait City,19,4.59,0
+Kuwait,Mangaf,26,,0
+Kuwait,Mubarak Al Kabeer,107,,0
+Kuwait,Sabah Al Salem,14,,0
+Kuwait,Salmiya,167,4.5,0
+Kuwait,Salwa,19,4.49,0
+Kuwait,Sharq,20,4.54,0
+Kuwait,Shuwaikh,21,4.64,0
+MOROCCO,A'Ali,20,4.4,0
+MOROCCO,Abu Dhabi,19,4.59,0
+MOROCCO,Abu Halifa,20,4.26,0
+MOROCCO,Agadir,237,4.61,0
+MOROCCO,Ahmadi,15,4.34,0
+MOROCCO,Ait Melloul,3,,0
+MOROCCO,Al Ain,20,4.58,0
+MOROCCO,Al Daayen,19,4.59,0
+MOROCCO,Al Hoceima,15,,0
+MOROCCO,Al Hoceïma,9,,0
+MOROCCO,Al Khor,19,4.28,0
+MOROCCO,Al Rayyan,20,4.3,0
+MOROCCO,Al Ruwais,20,4.39,0
+MOROCCO,Al Shahaniya,18,4.49,0
+MOROCCO,Al Wakrah,19,4.41,0
+MOROCCO,Al Wukair,18,4.52,0
+MOROCCO,Amwaj Islands,20,4.37,0
+MOROCCO,Azilal,18,,0
+MOROCCO,Azrou,9,,0
+MOROCCO,Aït Melloul,17,,0
+MOROCCO,Beni Mellal,34,4.24,0
+MOROCCO,Benslimane,7,,0
+MOROCCO,Berkane,19,,0
+MOROCCO,Berrechid,23,,0
+MOROCCO,Bneid Al Gar,20,4.46,0
+MOROCCO,Boujdour,11,,0
+MOROCCO,Budaiya,20,4.56,0
+MOROCCO,Béni Mellal,59,,0
+MOROCCO,Ca,1,,0
+MOROCCO,Casablanca,916,,0
+MOROCCO,Chefchaouen,30,,0
+MOROCCO,Chichaoua,3,,0
+MOROCCO,Chtouka Ait Baha,59,,0
+MOROCCO,Dakhla,91,,0
+MOROCCO,Dasman,18,4.53,0
+MOROCCO,Diraz,20,4.5,0
+MOROCCO,Driouch,10,,0
+MOROCCO,Dukhan,6,4.0,0
+MOROCCO,El Hajeb,15,,0
+MOROCCO,El Jadida,189,4.16,0
+MOROCCO,El Kelaa des Sraghna,59,,0
+MOROCCO,El Kelâa des Sraghna,3,,0
+MOROCCO,Errachidia,55,,0
+MOROCCO,Es-Smara,61,,0
+MOROCCO,Essaouira,65,4.69,0
+MOROCCO,Fahaheel,18,4.49,0
+MOROCCO,Farwaniya,19,4.36,0
+MOROCCO,Fes,20,4.69,0
+MOROCCO,Fez,42,,0
+MOROCCO,Figuig,9,,0
+MOROCCO,Fintas,17,4.51,0
+MOROCCO,Fnideq,13,,0
+MOROCCO,Fès,1634,,0
+MOROCCO,Guelmim,16,,0
+MOROCCO,Hamad Town,17,4.15,0
+MOROCCO,Hawalli,19,4.33,0
+MOROCCO,Ifrane,42,,0
+MOROCCO,Inezgane,9,,0
+MOROCCO,Isa Town,20,4.41,0
+MOROCCO,Jabriya,19,4.58,0
+MOROCCO,Jahra,19,4.47,0
+MOROCCO,Jeddah,20,4.55,0
+MOROCCO,Jidhafs,18,4.38,0
+MOROCCO,Kalba,20,4.31,0
+MOROCCO,Kenitra,42,4.23,0
+MOROCCO,Khaitan,19,4.31,0
+MOROCCO,Khemisset,8,,0
+MOROCCO,Khenifra,2,,0
+MOROCCO,Khouribga,22,3.93,0
+MOROCCO,Khénifra,4,,0
+MOROCCO,Ksar El Kebir,81,,0
+MOROCCO,Kénitra,109,,0
+MOROCCO,Laayoune,8,,0
+MOROCCO,Larache,65,4.2,0
+MOROCCO,Laâyoune,15,,0
+MOROCCO,Lusail,19,4.63,0
+MOROCCO,M'diq,106,,0
+MOROCCO,Madinat Ash Shamal,19,4.64,0
+MOROCCO,Madinat Zayed,19,4.51,0
+MOROCCO,Mahboula,19,4.43,0
+MOROCCO,Manama,20,4.54,0
+MOROCCO,Mangaf,20,4.09,0
+MOROCCO,Marrakech,598,4.58,0
+MOROCCO,Meknes,52,4.42,0
+MOROCCO,Meknès,202,,0
+MOROCCO,Mesaieed,15,4.35,0
+MOROCCO,Midelt,31,,0
+MOROCCO,Mishref,17,4.25,0
+MOROCCO,Mohammedia,47,4.16,0
+MOROCCO,Mohammédia,44,,0
+MOROCCO,Muharraq,19,4.3,0
+MOROCCO,Nador,81,4.15,0
+MOROCCO,Old Airport,19,4.27,0
+MOROCCO,Ouarzazate,84,,0
+MOROCCO,Ouezzane,16,,0
+MOROCCO,Oujda,203,4.22,0
+MOROCCO,Rabat,656,4.5,0
+MOROCCO,Riffa,20,4.38,0
+MOROCCO,Rissani,41,,0
+MOROCCO,Riyadh,19,4.44,0
+MOROCCO,Saar,19,4.47,0
+MOROCCO,Sabah Al Salem,17,4.49,0
+MOROCCO,Safi,83,4.14,0
+MOROCCO,Saidia,11,,0
+MOROCCO,Sale,60,,0
+MOROCCO,Salé,95,,0
+MOROCCO,Saïdia,13,,0
+MOROCCO,Sefrou,10,,0
+MOROCCO,Settat,24,,0
+MOROCCO,Sidi Ifni,25,,0
+MOROCCO,Sidi Kacem,37,,0
+MOROCCO,Sidi Slimane,9,,0
+MOROCCO,Skhirat,14,,0
+MOROCCO,Tan-Tan,60,,0
+MOROCCO,Tanger,450,,0
+MOROCCO,Tangier,34,,0
+MOROCCO,Taounate,26,,0
+MOROCCO,Taourirt,5,,0
+MOROCCO,Tarfaya,7,,0
+MOROCCO,Taroudant,49,,0
+MOROCCO,Taza,78,,0
+MOROCCO,Temara,16,,0
+MOROCCO,Tetouan,23,,0
+MOROCCO,Tinghir,53,,0
+MOROCCO,Tiznit,24,,0
+MOROCCO,Témara,88,,0
+MOROCCO,Zagora,72,,0
+MOROCCO,city,1,,0
+QATAR,Abu Samra,5,,0
+QATAR,Ain Khaled,53,,0
+QATAR,Al Daayen,14,,0
+QATAR,Al Gharrafa,60,,0
+QATAR,Al Ghuwariyah,60,,0
+QATAR,Al Kharaitiyat,60,,0
+QATAR,Al Khor,14,,0
+QATAR,Al Rayyan,20,,0
+QATAR,Al Ruwais,1,,0
+QATAR,Al Sadd,59,,0
+QATAR,Al Shahaniya,59,,0
+QATAR,Al Thumama,59,,0
+QATAR,Al Wakrah,19,,0
+QATAR,Al Wukair,2,,0
+QATAR,Bin Mahmoud,56,,0
+QATAR,Doha,44,,0
+QATAR,Education City,59,,0
+QATAR,Katara,17,,0
+QATAR,Lusail,52,,0
+QATAR,Madinat ash Shamal,57,,0
+QATAR,Mesaieed,3,,0
+QATAR,Msheireb Downtown,60,,0
+QATAR,Muaither,2,,0
+QATAR,Old Airport,59,,0
+QATAR,Rawdat Al Hamama,12,,0
+QATAR,The Pearl Qatar,59,,0
+QATAR,Umm Salal,1,,0
+QATAR,West Bay,60,,0
+Qatar,Al Daayen,26,,0
+Qatar,Al Khor,16,,0
+Qatar,Al Rayyan,201,,0
+Qatar,Al Shamal,1,,0
+Qatar,Al Wakrah,53,,0
+Qatar,Doha,618,4.62,0
+Qatar,The Pearl Qatar,19,4.56,0
+Qatar,Umm Salal,29,4.57,0
+SAUDI ARABIA,Abha,17,,0
+SAUDI ARABIA,Afif,1,,0
+SAUDI ARABIA,Al Ahsa,21,,0
+SAUDI ARABIA,Al Bahah,6,,0
+SAUDI ARABIA,Al Bukayriyah,2,,0
+SAUDI ARABIA,Al Dawadmi,2,,0
+SAUDI ARABIA,Al Hofuf,16,,0
+SAUDI ARABIA,Al Kharj,14,,0
+SAUDI ARABIA,Al Lith,60,,0
+SAUDI ARABIA,Al Majmaah,6,,0
+SAUDI ARABIA,Al Mubarraz,60,,0
+SAUDI ARABIA,Al Namas,1,,0
+SAUDI ARABIA,Al Qatif,6,,0
+SAUDI ARABIA,Al Qunfudhah,2,,0
+SAUDI ARABIA,Al Quwayiyah,1,,0
+SAUDI ARABIA,Al Rass,38,,0
+SAUDI ARABIA,Al Ula,17,,0
+SAUDI ARABIA,Al Wajh,1,,0
+SAUDI ARABIA,Arar,3,,0
+SAUDI ARABIA,Badr Hunayn,14,,0
+SAUDI ARABIA,Bisha,17,,0
+SAUDI ARABIA,Buraydah,45,,0
+SAUDI ARABIA,Dammam,29,,0
+SAUDI ARABIA,Dhahran,26,,0
+SAUDI ARABIA,Diriyah,18,,0
+SAUDI ARABIA,Hail,44,,0
+SAUDI ARABIA,Haql,2,,0
+SAUDI ARABIA,Hotat Bani Tamim,49,,0
+SAUDI ARABIA,Jazan,14,,0
+SAUDI ARABIA,Jeddah,40,,0
+SAUDI ARABIA,Jubail,26,,0
+SAUDI ARABIA,Khafji,5,,0
+SAUDI ARABIA,Khamis Mushait,13,,0
+SAUDI ARABIA,Khobar,35,,0
+SAUDI ARABIA,Mecca,31,,0
+SAUDI ARABIA,Medina,60,,0
+SAUDI ARABIA,Muhayil,2,,0
+SAUDI ARABIA,Najran,2,,0
+SAUDI ARABIA,Qurayyat,5,,0
+SAUDI ARABIA,Rabigh,6,,0
+SAUDI ARABIA,Ras Tanura,54,,0
+SAUDI ARABIA,Riyadh,47,,0
+SAUDI ARABIA,Rumah,57,,0
+SAUDI ARABIA,Sabya,3,,0
+SAUDI ARABIA,Safwa,4,,0
+SAUDI ARABIA,Saihat,5,,0
+SAUDI ARABIA,Sakaka,7,,0
+SAUDI ARABIA,Sharurah,1,,0
+SAUDI ARABIA,Tabuk,1,,0
+SAUDI ARABIA,Taif,18,,0
+SAUDI ARABIA,Tarout,4,,0
+SAUDI ARABIA,Turaif,1,,0
+SAUDI ARABIA,Unaizah,5,,0
+SAUDI ARABIA,Wadi ad-Dawasir,60,,0
+SAUDI ARABIA,Yanbu,19,,0
+Saudi Arabia,Abha,6,,0
+Saudi Arabia,Al Ahsa,501,,0
+Saudi Arabia,Arar,7,,0
+Saudi Arabia,Hail,30,,0
+Saudi Arabia,Jazan,73,,0
+Saudi Arabia,Mecca,154,,0
+Saudi Arabia,Medina,292,,0
+Saudi Arabia,Najran,49,,0
+Saudi Arabia,Riyadh,760,,0
+Saudi Arabia,Sakaka,37,,0
+Saudi Arabia,Tabuk,38,,0
+Saudi Arabia,Yanbu,111,,0
+UAE,(1,59,,80055
+UAE,(2,17,,43134
+UAE,(3,5,,17631
+UAE,(4,1,,4580
+UAE,(5,2,,10380
+UAE,006 reviews)Dubai,1,,2006
+UAE,007 reviews)New York City,1,,1007
+UAE,014 reviews)Dubai,1,,3014
+UAE,017 reviews)Dubai,1,,2017
+UAE,018 reviews)Dhaka City,1,,1018
+UAE,025 reviews)Taormina,1,,2025
+UAE,026 reviews)Hvar,1,,1026
+UAE,030 reviews)New York City,1,,4030
+UAE,043 reviews)Mexico City,1,,3043
+UAE,059 reviews)Dubai,1,,1059
+UAE,072 reviews)Chicago,1,,5072
+UAE,076 reviews)Dubai,1,,1076
+UAE,096 reviews)Dubai,1,,1096
+UAE,1.81.8 of 5 bubbles(8 reviews)Dubai,1,,8
+UAE,101 reviews)Lima,1,,1101
+UAE,108 reviews)West End,1,,1108
+UAE,111 reviews)Naples,1,,1111
+UAE,113 reviews)Seminyak,1,,6113
+UAE,147 reviews)Dubai,1,,1147
+UAE,160 reviews)Dubai,1,,4160
+UAE,170 reviews)Amman,1,,4170
+UAE,191 reviews)Ho Chi Minh City,1,,1191
+UAE,192 reviews)Jakarta,1,,1192
+UAE,2.72.7 of 5 bubbles(28 reviews)Muscat,1,,28
+UAE,2.72.7 of 5 bubbles(3 reviews)Dubai,1,,3
+UAE,2.92.9 of 5 bubbles(170 reviews)Denver,1,,170
+UAE,2.92.9 of 5 bubbles(21 reviews)Dubai,1,,21
+UAE,204 reviews)Dubai,1,,1204
+UAE,204 reviews)New York City,1,,2204
+UAE,214 reviews)Dubai,1,,1214
+UAE,231 reviews)Mumbai,1,,2231
+UAE,235 reviews)Quezon City,1,,2235
+UAE,236 reviews)Dubai,1,,1236
+UAE,246 reviews)San Diego,1,,1246
+UAE,248 reviews)Dubai,1,,2248
+UAE,249 reviews)Ocean City,1,,2249
+UAE,256 reviews)Dubai,1,,2256
+UAE,268 reviews)Dubai,1,,2268
+UAE,283 reviews)Palm - Eagle Beach,1,,10283
+UAE,284 reviews)Isle of Palms,1,,4284
+UAE,293 reviews)Bar Harbor,1,,3293
+UAE,294 reviews)Palm - Eagle Beach,1,,8294
+UAE,298 reviews)Ras Al Khaimah,1,,1298
+UAE,3.03 of 5 bubbles(2 reviews)Dubai,2,,4
+UAE,3.03 of 5 bubbles(4 reviews)Amman,1,,4
+UAE,3.33.3 of 5 bubbles(12 reviews)Dubai,1,,12
+UAE,3.33.3 of 5 bubbles(14 reviews)Dubai,1,,14
+UAE,3.43.4 of 5 bubbles(105 reviews)Dubai,2,,210
+UAE,3.43.4 of 5 bubbles(128 reviews)Dubai,1,,128
+UAE,3.53.5 of 5 bubbles(23 reviews)Dubai,1,,23
+UAE,3.53.5 of 5 bubbles(24 reviews)Dubai,1,,24
+UAE,3.53.5 of 5 bubbles(81 reviews)Medford,1,,81
+UAE,3.53.5 of 5 bubbles(86 reviews)Saint Louis,1,,86
+UAE,3.63.6 of 5 bubbles(20 reviews)Dubai,1,,20
+UAE,3.63.6 of 5 bubbles(22 reviews)Kuwait City,1,,22
+UAE,3.63.6 of 5 bubbles(299 reviews)Grenada,1,,299
+UAE,3.63.6 of 5 bubbles(308 reviews)Birch Bay,1,,308
+UAE,3.63.6 of 5 bubbles(323 reviews)Patchogue,1,,323
+UAE,3.63.6 of 5 bubbles(401 reviews)Dubai,1,,401
+UAE,3.63.6 of 5 bubbles(50 reviews)Dubai,1,,50
+UAE,3.63.6 of 5 bubbles(61 reviews)Austin,1,,61
+UAE,3.73.7 of 5 bubbles(105 reviews)Dubai,2,,210
+UAE,3.73.7 of 5 bubbles(186 reviews)Tulalip,1,,186
+UAE,3.73.7 of 5 bubbles(574 reviews)Kuala Lumpur,1,,574
+UAE,3.73.7 of 5 bubbles(73 reviews)Muscat,1,,73
+UAE,3.83.8 of 5 bubbles(11 reviews)Dubai,1,,11
+UAE,3.83.8 of 5 bubbles(13 reviews)Dubai,1,,13
+UAE,3.83.8 of 5 bubbles(154 reviews)Dubai,1,,154
+UAE,3.83.8 of 5 bubbles(17 reviews)Abu Dhabi,1,,17
+UAE,3.83.8 of 5 bubbles(226 reviews)Hong Kong,1,,226
+UAE,3.83.8 of 5 bubbles(31 reviews)Abu Dhabi,1,,31
+UAE,3.83.8 of 5 bubbles(408 reviews)Tampa,1,,408
+UAE,3.83.8 of 5 bubbles(6 reviews)Dubai,1,,6
+UAE,3.83.8 of 5 bubbles(90 reviews)Dubai,2,,180
+UAE,3.93.9 of 5 bubbles(118 reviews)Dubai,1,,118
+UAE,3.93.9 of 5 bubbles(135 reviews)Dubai,1,,135
+UAE,3.93.9 of 5 bubbles(208 reviews)Dubai,1,,208
+UAE,3.93.9 of 5 bubbles(30 reviews)Dubai,1,,30
+UAE,3.93.9 of 5 bubbles(43 reviews)Dubai,1,,43
+UAE,3.93.9 of 5 bubbles(48 reviews)Dubai,1,,48
+UAE,3.93.9 of 5 bubbles(53 reviews)Dubai,1,,53
+UAE,3.93.9 of 5 bubbles(77 reviews)Dubai,1,,77
+UAE,3.93.9 of 5 bubbles(84 reviews)Dubai,1,,84
+UAE,305 reviews)Auckland Central,1,,2305
+UAE,318 reviews)Dubai,1,,2318
+UAE,329 reviews)Chicago,1,,6329
+UAE,343 reviews)Taormina,1,,1343
+UAE,351 reviews)Dubai,1,,1351
+UAE,365 reviews)Cairo,1,,3365
+UAE,365 reviews)Ella,1,,17365
+UAE,385 reviews)Kapaa,1,,1385
+UAE,390 reviews)Queenstown,1,,15390
+UAE,391 reviews)Dubai,3,,4173
+UAE,396 reviews)Jeddah,1,,2396
+UAE,398 reviews)Dubai,1,,2398
+UAE,4.04 of 5 bubbles(104 reviews)Dubai,2,,208
+UAE,4.04 of 5 bubbles(136 reviews)Dubai,1,,136
+UAE,4.04 of 5 bubbles(14 reviews)Dubai,1,,14
+UAE,4.04 of 5 bubbles(18 reviews)Dubai,1,,18
+UAE,4.04 of 5 bubbles(180 reviews)Dubai,1,,180
+UAE,4.04 of 5 bubbles(2 reviews)Dubai,1,,2
+UAE,4.04 of 5 bubbles(263 reviews)Dubai,2,,526
+UAE,4.04 of 5 bubbles(274 reviews)Dubai,1,,274
+UAE,4.04 of 5 bubbles(28 reviews)Dubai,1,,28
+UAE,4.04 of 5 bubbles(283 reviews)Dubai,1,,283
+UAE,4.04 of 5 bubbles(283 reviews)Quincy,1,,283
+UAE,4.04 of 5 bubbles(30 reviews)Dubai,1,,30
+UAE,4.04 of 5 bubbles(328 reviews)Brussels,1,,328
+UAE,4.04 of 5 bubbles(345 reviews)Timberline Lodge,1,,345
+UAE,4.04 of 5 bubbles(36 reviews)Dubai,1,,36
+UAE,4.04 of 5 bubbles(380 reviews)Dubai,1,,380
+UAE,4.04 of 5 bubbles(658 reviews)Dubai,1,,658
+UAE,4.04 of 5 bubbles(704 reviews)Dubai,2,,1408
+UAE,4.04 of 5 bubbles(88 reviews)Muscat,1,,88
+UAE,4.04 of 5 bubbles(99 reviews)Dubai,1,,99
+UAE,4.14.1 of 5 bubbles(107 reviews)Dubai,1,,107
+UAE,4.14.1 of 5 bubbles(119 reviews)Dubai,1,,119
+UAE,4.14.1 of 5 bubbles(128 reviews)Dubai,2,,256
+UAE,4.14.1 of 5 bubbles(129 reviews)Dubai,1,,129
+UAE,4.14.1 of 5 bubbles(144 reviews)Dubai,1,,144
+UAE,4.14.1 of 5 bubbles(16 reviews)Dubai,1,,16
+UAE,4.14.1 of 5 bubbles(213 reviews)Culver City,1,,213
+UAE,4.14.1 of 5 bubbles(26 reviews)Dubai,1,,26
+UAE,4.14.1 of 5 bubbles(287 reviews)Singapore,1,,287
+UAE,4.14.1 of 5 bubbles(299 reviews)Ho Chi Minh City,1,,299
+UAE,4.14.1 of 5 bubbles(308 reviews)McLean,1,,308
+UAE,4.14.1 of 5 bubbles(319 reviews)Dubai,2,,638
+UAE,4.14.1 of 5 bubbles(34 reviews)Dubai,1,,34
+UAE,4.14.1 of 5 bubbles(370 reviews)Dubai,1,,370
+UAE,4.14.1 of 5 bubbles(43 reviews)Dubai,1,,43
+UAE,4.14.1 of 5 bubbles(44 reviews)Dubai,2,,88
+UAE,4.14.1 of 5 bubbles(645 reviews)Mexico City,1,,645
+UAE,4.14.1 of 5 bubbles(69 reviews)Dubai,1,,69
+UAE,4.14.1 of 5 bubbles(7 reviews)Daegu,1,,7
+UAE,4.14.1 of 5 bubbles(723 reviews)Dubai,1,,723
+UAE,4.14.1 of 5 bubbles(95 reviews)Targu Jiu,1,,95
+UAE,4.14.1 of 5 bubbles(99 reviews)Shelter Island Heights,1,,99
+UAE,4.24.2 of 5 bubbles(101 reviews)Dubai,1,,101
+UAE,4.24.2 of 5 bubbles(11 reviews)Dubai,1,,11
+UAE,4.24.2 of 5 bubbles(149 reviews)Dubai,1,,149
+UAE,4.24.2 of 5 bubbles(172 reviews)Dubai,1,,172
+UAE,4.24.2 of 5 bubbles(174 reviews)Dubai,1,,174
+UAE,4.24.2 of 5 bubbles(206 reviews)Green Bay,1,,206
+UAE,4.24.2 of 5 bubbles(22 reviews)Dubai,1,,22
+UAE,4.24.2 of 5 bubbles(245 reviews)Dubai,1,,245
+UAE,4.24.2 of 5 bubbles(389 reviews)Dubai,1,,389
+UAE,4.24.2 of 5 bubbles(438 reviews)Morro Bay,1,,438
+UAE,4.24.2 of 5 bubbles(534 reviews)Kalk Bay,1,,534
+UAE,4.24.2 of 5 bubbles(59 reviews)Dubai,1,,59
+UAE,4.24.2 of 5 bubbles(59 reviews)Glen Burnie,1,,59
+UAE,4.24.2 of 5 bubbles(60 reviews)Dubai,1,,60
+UAE,4.24.2 of 5 bubbles(61 reviews)Dubai,2,,122
+UAE,4.24.2 of 5 bubbles(72 reviews)Dubai,1,,72
+UAE,4.24.2 of 5 bubbles(78 reviews)Bacolod,1,,78
+UAE,4.34.3 of 5 bubbles(114 reviews)Dubai,1,,114
+UAE,4.34.3 of 5 bubbles(119 reviews)Muscat,1,,119
+UAE,4.34.3 of 5 bubbles(129 reviews)Dubai,1,,129
+UAE,4.34.3 of 5 bubbles(133 reviews)New Delhi,1,,133
+UAE,4.34.3 of 5 bubbles(142 reviews)Dubai,1,,142
+UAE,4.34.3 of 5 bubbles(206 reviews)London,1,,206
+UAE,4.34.3 of 5 bubbles(244 reviews)Dubai,1,,244
+UAE,4.34.3 of 5 bubbles(295 reviews)Tel Aviv,1,,295
+UAE,4.34.3 of 5 bubbles(302 reviews)Stillwater,1,,302
+UAE,4.34.3 of 5 bubbles(304 reviews)East Hampton,1,,304
+UAE,4.34.3 of 5 bubbles(349 reviews)Santa Monica,1,,349
+UAE,4.34.3 of 5 bubbles(379 reviews)Marrakech,1,,379
+UAE,4.34.3 of 5 bubbles(470 reviews)Baltimore,1,,470
+UAE,4.34.3 of 5 bubbles(479 reviews)Washington DC,1,,479
+UAE,4.34.3 of 5 bubbles(53 reviews)Dubai,1,,53
+UAE,4.34.3 of 5 bubbles(543 reviews)Ōmārama,1,,543
+UAE,4.34.3 of 5 bubbles(544 reviews)Dubai,1,,544
+UAE,4.34.3 of 5 bubbles(55 reviews)Dubai,1,,55
+UAE,4.34.3 of 5 bubbles(561 reviews)Dubai,1,,561
+UAE,4.34.3 of 5 bubbles(76 reviews)Hue,1,,76
+UAE,4.34.3 of 5 bubbles(87 reviews)Dubai,1,,87
+UAE,4.34.3 of 5 bubbles(925 reviews)Dubai,1,,925
+UAE,4.44.4 of 5 bubbles(124 reviews)Dubai,1,,124
+UAE,4.44.4 of 5 bubbles(128 reviews)Dubai,1,,128
+UAE,4.44.4 of 5 bubbles(14 reviews)Dubai,1,,14
+UAE,4.44.4 of 5 bubbles(14 reviews)Manama,1,,14
+UAE,4.44.4 of 5 bubbles(164 reviews)Muscat,1,,164
+UAE,4.44.4 of 5 bubbles(17 reviews)Dubai,1,,17
+UAE,4.44.4 of 5 bubbles(191 reviews)Dubai,1,,191
+UAE,4.44.4 of 5 bubbles(20 reviews)Dubai,1,,20
+UAE,4.44.4 of 5 bubbles(225 reviews)Al Ain,1,,225
+UAE,4.44.4 of 5 bubbles(240 reviews)Dubai,1,,240
+UAE,4.44.4 of 5 bubbles(25 reviews)Dubai,1,,25
+UAE,4.44.4 of 5 bubbles(255 reviews)Cebu City,1,,255
+UAE,4.44.4 of 5 bubbles(261 reviews)Dubai,1,,261
+UAE,4.44.4 of 5 bubbles(278 reviews)Charlotte,1,,278
+UAE,4.44.4 of 5 bubbles(321 reviews)Dubai,1,,321
+UAE,4.44.4 of 5 bubbles(357 reviews)Dubai,1,,357
+UAE,4.44.4 of 5 bubbles(382 reviews)Dubai,1,,382
+UAE,4.44.4 of 5 bubbles(387 reviews)Fort Walton Beach,1,,387
+UAE,4.44.4 of 5 bubbles(452 reviews)Salalah,1,,452
+UAE,4.44.4 of 5 bubbles(52 reviews)Dubai,2,,104
+UAE,4.44.4 of 5 bubbles(538 reviews)Piazza Armerina,1,,538
+UAE,4.44.4 of 5 bubbles(592 reviews)Dubai,1,,592
+UAE,4.44.4 of 5 bubbles(65 reviews)Dubai,1,,65
+UAE,4.44.4 of 5 bubbles(673 reviews)Dubai,1,,673
+UAE,4.44.4 of 5 bubbles(88 reviews)Dubai,1,,88
+UAE,4.44.4 of 5 bubbles(98 reviews)Dubai,1,,98
+UAE,4.54.5 of 5 bubbles(117 reviews)Marshall,1,,117
+UAE,4.54.5 of 5 bubbles(118 reviews)Luxor,1,,118
+UAE,4.54.5 of 5 bubbles(123 reviews)Dubai,1,,123
+UAE,4.54.5 of 5 bubbles(18 reviews)Dubai,1,,18
+UAE,4.54.5 of 5 bubbles(18 reviews)London,1,,18
+UAE,4.54.5 of 5 bubbles(190 reviews)Dubai,1,,190
+UAE,4.54.5 of 5 bubbles(203 reviews)Guatemala City,1,,203
+UAE,4.54.5 of 5 bubbles(208 reviews)Dubai,1,,208
+UAE,4.54.5 of 5 bubbles(217 reviews)Kuwait City,1,,217
+UAE,4.54.5 of 5 bubbles(228 reviews)Dubai,1,,228
+UAE,4.54.5 of 5 bubbles(236 reviews)Dubai,1,,236
+UAE,4.54.5 of 5 bubbles(4 reviews)Dubai,1,,4
+UAE,4.54.5 of 5 bubbles(41 reviews)Dubai,1,,41
+UAE,4.54.5 of 5 bubbles(423 reviews)Dubai,1,,423
+UAE,4.54.5 of 5 bubbles(468 reviews)Buenos Aires,1,,468
+UAE,4.54.5 of 5 bubbles(47 reviews)Coral Gables,1,,47
+UAE,4.54.5 of 5 bubbles(527 reviews)Dubai,1,,527
+UAE,4.54.5 of 5 bubbles(561 reviews)New York City,1,,561
+UAE,4.54.5 of 5 bubbles(573 reviews)Dubai,1,,573
+UAE,4.54.5 of 5 bubbles(61 reviews)Dubai,1,,61
+UAE,4.54.5 of 5 bubbles(616 reviews)Dubai,1,,616
+UAE,4.54.5 of 5 bubbles(66 reviews)Abu Dhabi,1,,66
+UAE,4.54.5 of 5 bubbles(703 reviews)Miami Beach,1,,703
+UAE,4.54.5 of 5 bubbles(704 reviews)Oyster Pond,1,,704
+UAE,4.54.5 of 5 bubbles(788 reviews)Dubai,1,,788
+UAE,4.54.5 of 5 bubbles(79 reviews)Al Khobar,1,,79
+UAE,4.54.5 of 5 bubbles(941 reviews)Al Khobar,1,,941
+UAE,4.54.5 of 5 bubbles(981 reviews)Gulf Shores,1,,981
+UAE,4.54.5 of 5 bubbles(99 reviews)Dubai,1,,99
+UAE,4.64.6 of 5 bubbles(11 reviews)Dubai,1,,11
+UAE,4.64.6 of 5 bubbles(110 reviews)Patong,1,,110
+UAE,4.64.6 of 5 bubbles(130 reviews)Dubai,1,,130
+UAE,4.64.6 of 5 bubbles(140 reviews)Dubai,1,,140
+UAE,4.64.6 of 5 bubbles(165 reviews)Ras Al Khaimah,1,,165
+UAE,4.64.6 of 5 bubbles(182 reviews)Dubai,1,,182
+UAE,4.64.6 of 5 bubbles(184 reviews)Dubai,1,,184
+UAE,4.64.6 of 5 bubbles(189 reviews)Dubai,2,,378
+UAE,4.64.6 of 5 bubbles(19 reviews)Dubai,1,,19
+UAE,4.64.6 of 5 bubbles(220 reviews)Iowa City,1,,220
+UAE,4.64.6 of 5 bubbles(314 reviews)Tampa,1,,314
+UAE,4.64.6 of 5 bubbles(453 reviews)Dubai,1,,453
+UAE,4.64.6 of 5 bubbles(617 reviews)Dubai,1,,617
+UAE,4.64.6 of 5 bubbles(65 reviews)Dubai,1,,65
+UAE,4.64.6 of 5 bubbles(755 reviews)Providence,1,,755
+UAE,4.64.6 of 5 bubbles(766 reviews)Providence,1,,766
+UAE,4.74.7 of 5 bubbles(110 reviews)Dubai,1,,110
+UAE,4.74.7 of 5 bubbles(111 reviews)Kalkan,1,,111
+UAE,4.74.7 of 5 bubbles(12 reviews)Dubai,1,,12
+UAE,4.74.7 of 5 bubbles(120 reviews)Al Ain,1,,120
+UAE,4.74.7 of 5 bubbles(121 reviews)Gallup,1,,121
+UAE,4.74.7 of 5 bubbles(126 reviews)Dubai,2,,252
+UAE,4.74.7 of 5 bubbles(13 reviews)Dubai,1,,13
+UAE,4.74.7 of 5 bubbles(138 reviews)Dubai,1,,138
+UAE,4.74.7 of 5 bubbles(14 reviews)Mumbai,1,,14
+UAE,4.74.7 of 5 bubbles(145 reviews)Dubai,1,,145
+UAE,4.74.7 of 5 bubbles(177 reviews)Al Wakrah,1,,177
+UAE,4.74.7 of 5 bubbles(19 reviews)Dubai,1,,19
+UAE,4.74.7 of 5 bubbles(204 reviews)Luxor,1,,204
+UAE,4.74.7 of 5 bubbles(207 reviews)Dubai,1,,207
+UAE,4.74.7 of 5 bubbles(227 reviews)Dubai,1,,227
+UAE,4.74.7 of 5 bubbles(236 reviews)Ras Al Khaimah,1,,236
+UAE,4.74.7 of 5 bubbles(237 reviews)Dubai,1,,237
+UAE,4.74.7 of 5 bubbles(265 reviews)Dubai,1,,265
+UAE,4.74.7 of 5 bubbles(3 reviews)Manama,1,,3
+UAE,4.74.7 of 5 bubbles(30 reviews)Dubai,1,,30
+UAE,4.74.7 of 5 bubbles(32 reviews)Dubai,1,,32
+UAE,4.74.7 of 5 bubbles(327 reviews)Dubai,1,,327
+UAE,4.74.7 of 5 bubbles(65 reviews)Abu Dhabi,1,,65
+UAE,4.74.7 of 5 bubbles(67 reviews)Dubai,1,,67
+UAE,4.74.7 of 5 bubbles(686 reviews)Dubai,1,,686
+UAE,4.74.7 of 5 bubbles(724 reviews)Dubai,1,,724
+UAE,4.74.7 of 5 bubbles(73 reviews)Dubai,1,,73
+UAE,4.74.7 of 5 bubbles(80 reviews)Jeddah,1,,80
+UAE,4.74.7 of 5 bubbles(835 reviews)Dubai,1,,835
+UAE,4.74.7 of 5 bubbles(880 reviews)Dubai,1,,880
+UAE,4.74.7 of 5 bubbles(92 reviews)Muscat,1,,92
+UAE,4.74.7 of 5 bubbles(927 reviews)Tirana,1,,927
+UAE,4.84.8 of 5 bubbles(118 reviews)Dubai,1,,118
+UAE,4.84.8 of 5 bubbles(120 reviews)Dubai,1,,120
+UAE,4.84.8 of 5 bubbles(130 reviews)Tamale,1,,130
+UAE,4.84.8 of 5 bubbles(141 reviews)Jeddah,1,,141
+UAE,4.84.8 of 5 bubbles(157 reviews)Dubai,1,,157
+UAE,4.84.8 of 5 bubbles(163 reviews)Dubai,1,,163
+UAE,4.84.8 of 5 bubbles(176 reviews)Dubai,1,,176
+UAE,4.84.8 of 5 bubbles(178 reviews)Bluff Beach,1,,178
+UAE,4.84.8 of 5 bubbles(204 reviews)Sharjah,1,,204
+UAE,4.84.8 of 5 bubbles(216 reviews)Dubai,1,,216
+UAE,4.84.8 of 5 bubbles(228 reviews)Dubai,1,,228
+UAE,4.84.8 of 5 bubbles(262 reviews)Paranaque,1,,262
+UAE,4.84.8 of 5 bubbles(283 reviews)Ras Al Khaimah,1,,283
+UAE,4.84.8 of 5 bubbles(285 reviews)Muscat,1,,285
+UAE,4.84.8 of 5 bubbles(31 reviews)Muscat,1,,31
+UAE,4.84.8 of 5 bubbles(322 reviews)Dubai,1,,322
+UAE,4.84.8 of 5 bubbles(345 reviews)Dubai,1,,345
+UAE,4.84.8 of 5 bubbles(352 reviews)Muscat,1,,352
+UAE,4.84.8 of 5 bubbles(38 reviews)Ras Al Khaimah,1,,38
+UAE,4.84.8 of 5 bubbles(4 reviews)Abu Dhabi,1,,4
+UAE,4.84.8 of 5 bubbles(4 reviews)Dubai,1,,4
+UAE,4.84.8 of 5 bubbles(406 reviews)Dubai,1,,406
+UAE,4.84.8 of 5 bubbles(431 reviews)Dubai,1,,431
+UAE,4.84.8 of 5 bubbles(435 reviews)Dubai,1,,435
+UAE,4.84.8 of 5 bubbles(45 reviews)Dubai,1,,45
+UAE,4.84.8 of 5 bubbles(453 reviews)Dubai,1,,453
+UAE,4.84.8 of 5 bubbles(482 reviews)Doha,1,,482
+UAE,4.84.8 of 5 bubbles(49 reviews)Dubai,1,,49
+UAE,4.84.8 of 5 bubbles(5 reviews)Dubai,1,,5
+UAE,4.84.8 of 5 bubbles(529 reviews)London,1,,529
+UAE,4.84.8 of 5 bubbles(56 reviews)Abu Dhabi,1,,56
+UAE,4.84.8 of 5 bubbles(562 reviews)Dubai,1,,562
+UAE,4.84.8 of 5 bubbles(577 reviews)Dubai,1,,577
+UAE,4.84.8 of 5 bubbles(634 reviews)Muscat,1,,634
+UAE,4.84.8 of 5 bubbles(687 reviews)Marmaris,1,,687
+UAE,4.84.8 of 5 bubbles(9 reviews)Dubai,1,,9
+UAE,4.94.9 of 5 bubbles(109 reviews)Dubai,1,,109
+UAE,4.94.9 of 5 bubbles(113 reviews)Dubai,1,,113
+UAE,4.94.9 of 5 bubbles(114 reviews)Dubai,1,,114
+UAE,4.94.9 of 5 bubbles(122 reviews)Dubai,1,,122
+UAE,4.94.9 of 5 bubbles(141 reviews)London,1,,141
+UAE,4.94.9 of 5 bubbles(146 reviews)Dubai,1,,146
+UAE,4.94.9 of 5 bubbles(148 reviews)Dubai,1,,148
+UAE,4.94.9 of 5 bubbles(16 reviews)Dubai,1,,16
+UAE,4.94.9 of 5 bubbles(161 reviews)Dubai,1,,161
+UAE,4.94.9 of 5 bubbles(168 reviews)Dubai,1,,168
+UAE,4.94.9 of 5 bubbles(19 reviews)Dubai,1,,19
+UAE,4.94.9 of 5 bubbles(264 reviews)Cocoa Beach,1,,264
+UAE,4.94.9 of 5 bubbles(265 reviews)Dhaka City,1,,265
+UAE,4.94.9 of 5 bubbles(357 reviews)Dubai,1,,357
+UAE,4.94.9 of 5 bubbles(374 reviews)Dubai,1,,374
+UAE,4.94.9 of 5 bubbles(415 reviews)Dubai,1,,415
+UAE,4.94.9 of 5 bubbles(417 reviews)Dubai,1,,417
+UAE,4.94.9 of 5 bubbles(42 reviews)Abu Dhabi,1,,42
+UAE,4.94.9 of 5 bubbles(426 reviews)Ras Al Khaimah,1,,426
+UAE,4.94.9 of 5 bubbles(451 reviews)Muscat,1,,451
+UAE,4.94.9 of 5 bubbles(481 reviews)Abu Dhabi,1,,481
+UAE,4.94.9 of 5 bubbles(490 reviews)Dubai,2,,980
+UAE,4.94.9 of 5 bubbles(493 reviews)Dubai,1,,493
+UAE,4.94.9 of 5 bubbles(498 reviews)Dubai,1,,498
+UAE,4.94.9 of 5 bubbles(523 reviews)Dubai,1,,523
+UAE,4.94.9 of 5 bubbles(566 reviews)Pecatu,2,,1132
+UAE,4.94.9 of 5 bubbles(621 reviews)Dubai,1,,621
+UAE,4.94.9 of 5 bubbles(63 reviews)Dubai,1,,63
+UAE,4.94.9 of 5 bubbles(686 reviews)Dubai,1,,686
+UAE,4.94.9 of 5 bubbles(79 reviews)Dubai,2,,158
+UAE,4.94.9 of 5 bubbles(83 reviews)Dubai,1,,83
+UAE,4.94.9 of 5 bubbles(858 reviews)Pasay,1,,858
+UAE,4.94.9 of 5 bubbles(9 reviews)Dubai,1,,9
+UAE,4.94.9 of 5 bubbles(911 reviews)Dubai,1,,911
+UAE,4.94.9 of 5 bubbles(95 reviews)Muscat,1,,95
+UAE,410 reviews)Punta Cana,1,,2410
+UAE,412 reviews)Doha,1,,2412
+UAE,412 reviews)Gulf Shores,1,,2412
+UAE,425 reviews)Dubai,1,,3425
+UAE,429 reviews)Patong,1,,1429
+UAE,438 reviews)Dubai,1,,1438
+UAE,442 reviews)Dubai,1,,2442
+UAE,445 reviews)New York City,1,,3445
+UAE,462 reviews)Dubai,1,,1462
+UAE,468 reviews)Iquitos,1,,1468
+UAE,471 reviews)Dubai,1,,1471
+UAE,496 reviews)Miami Beach,1,,2496
+UAE,5.05 of 5 bubbles(1 review)Al Madam,1,,1
+UAE,5.05 of 5 bubbles(1 review)Dubai,1,,1
+UAE,5.05 of 5 bubbles(12 reviews)Dubai,2,,24
+UAE,5.05 of 5 bubbles(141 reviews)Dubai,1,,141
+UAE,5.05 of 5 bubbles(146 reviews)Dubai,1,,146
+UAE,5.05 of 5 bubbles(15 reviews)Dubai,1,,15
+UAE,5.05 of 5 bubbles(17 reviews)Dubai,1,,17
+UAE,5.05 of 5 bubbles(2 reviews)Abu Dhabi,1,,2
+UAE,5.05 of 5 bubbles(2 reviews)Dubai,3,,6
+UAE,5.05 of 5 bubbles(211 reviews)Dubai,1,,211
+UAE,5.05 of 5 bubbles(22 reviews)Dubai,2,,44
+UAE,5.05 of 5 bubbles(25 reviews)Dubai,1,,25
+UAE,5.05 of 5 bubbles(271 reviews)Dubai,1,,271
+UAE,5.05 of 5 bubbles(284 reviews)Dubai,1,,284
+UAE,5.05 of 5 bubbles(285 reviews)Dubai,1,,285
+UAE,5.05 of 5 bubbles(33 reviews)Dubai,1,,33
+UAE,5.05 of 5 bubbles(335 reviews)Hurghada,1,,335
+UAE,5.05 of 5 bubbles(368 reviews)Dubai,1,,368
+UAE,5.05 of 5 bubbles(384 reviews)Dubai,1,,384
+UAE,5.05 of 5 bubbles(398 reviews)Dubai,1,,398
+UAE,5.05 of 5 bubbles(4 reviews)Dubai,2,,8
+UAE,5.05 of 5 bubbles(423 reviews)Dubai,1,,423
+UAE,5.05 of 5 bubbles(45 reviews)Daegu,1,,45
+UAE,5.05 of 5 bubbles(47 reviews)Dubai,1,,47
+UAE,5.05 of 5 bubbles(480 reviews)Abu Dhabi,1,,480
+UAE,5.05 of 5 bubbles(50 reviews)Dubai,1,,50
+UAE,5.05 of 5 bubbles(506 reviews)Dubai,1,,506
+UAE,5.05 of 5 bubbles(554 reviews)Dhaka City,1,,554
+UAE,5.05 of 5 bubbles(618 reviews)Dubai,1,,618
+UAE,5.05 of 5 bubbles(620 reviews)Dubai,1,,620
+UAE,5.05 of 5 bubbles(64 reviews)Dubai,1,,64
+UAE,5.05 of 5 bubbles(66 reviews)Dubai,1,,66
+UAE,5.05 of 5 bubbles(683 reviews)Dubai,1,,683
+UAE,5.05 of 5 bubbles(712 reviews)Dubai,1,,712
+UAE,5.05 of 5 bubbles(768 reviews)Dubai,1,,768
+UAE,509 reviews)Dubai,1,,1509
+UAE,526 reviews)London,1,,3526
+UAE,538 reviews)London,1,,3538
+UAE,540 reviews)New York City,1,,2540
+UAE,546 reviews)Oneroa,1,,1546
+UAE,559 reviews)Dubai,1,,1559
+UAE,563 reviews)Abu Dhabi,1,,1563
+UAE,572 reviews)Fairhope,1,,2572
+UAE,574 reviews)Miami Beach,1,,8574
+UAE,579 reviews)Dubai,1,,3579
+UAE,584 reviews)Dubai,1,,2584
+UAE,629 reviews)Wellington,1,,1629
+UAE,630 reviews)Petra - Wadi Musa,1,,5630
+UAE,637 reviews)Taguig City,1,,2637
+UAE,639 reviews)Chicago,1,,1639
+UAE,645 reviews)Valletta,1,,5645
+UAE,653 reviews)Dubai,1,,1653
+UAE,673 reviews)New Orleans,1,,4673
+UAE,685 reviews)Mecca,1,,1685
+UAE,685 reviews)Valletta,1,,1685
+UAE,690 reviews)Dubai,1,,2690
+UAE,699 reviews)Dubai,1,,2699
+UAE,701 reviews)New York City,1,,3701
+UAE,714 reviews)Paranaque,1,,2714
+UAE,716 reviews)Dubai,1,,2716
+UAE,735 reviews)Dubai,1,,2735
+UAE,749 reviews)London,1,,2749
+UAE,759 reviews)Dubai,2,,3518
+UAE,767 reviews)Austin,1,,3767
+UAE,769 reviews)Dubai,1,,1769
+UAE,773 reviews)Ras Al Khaimah,1,,1773
+UAE,782 reviews)New York City,1,,2782
+UAE,807 reviews)Newport,1,,3807
+UAE,859 reviews)Amman,1,,2859
+UAE,881 reviews)Dubai,3,,8643
+UAE,889 reviews)Dubai,2,,3778
+UAE,890 reviews)New York City,1,,1890
+UAE,904 reviews)Dubai,1,,1904
+UAE,922 reviews)St. Paul's Bay,1,,2922
+UAE,927 reviews)Havana,1,,4927
+UAE,935 reviews)Dhaka City,1,,1935
+UAE,940 reviews)London,1,,7940
+UAE,952 reviews)Ho Chi Minh City,1,,1952
+UAE,960 reviews)London,1,,3960
+UAE,990 reviews)Dubai,1,,1990
+UAE,995 reviews)Miami Beach,1,,1995
+UAE,Abu Dhabi,1436,,10650
+UAE,Ajman,524,,4579
+UAE,Al Ain,209,,3228
+UAE,Al Aqah,12,,2532
+UAE,Al Dhaid,2,,5
+UAE,Al Hamriyah,12,,119
+UAE,Al Jazirah Al Hamra,9,,124
+UAE,Al Mirfa,2,,2
+UAE,Al Ruwais,1,,1
+UAE,Attica,1,,2321
+UAE,Bluewaters Island,12,,119
+UAE,British Columbia,4,,7065
+UAE,Canton of Obwalden,1,,285
+UAE,Chania Prefecture,1,,309
+UAE,Colima,1,,462
+UAE,Cornwall,1,,481
+UAE,Costa Dorada,1,,2125
+UAE,Costa del Sol,1,,451
+UAE,Derbyshire,1,,373
+UAE,Dibba Al Fujairah,13,,618
+UAE,Dibba Al Hisn,3,,1
+UAE,Digdaga,15,,295
+UAE,Dubai,2787,4.73,6910
+UAE,Dubai Marina,19,4.78,0
+UAE,East Sussex,1,,599
+UAE,Emilia-Romagna,1,,2455
+UAE,Fujairah,186,,3427
+UAE,Ghantoot,1,,4
+UAE,Greater London,1,,343
+UAE,Greater Manchester,3,,4104
+UAE,Hatta,10,,211
+UAE,Italian Riviera,3,,5203
+UAE,Jebel Ali,8,,101
+UAE,Kalba,19,,47
+UAE,Kashmir,1,,931
+UAE,Kent,1,,556
+UAE,Khor Fakkan,31,,264
+UAE,Lancashire,1,,467
+UAE,Lazio,1,,5556
+UAE,Lower Saxony,1,,30
+UAE,Madinat Zayed,4,,46
+UAE,Majorca,1,,1234
+UAE,Mussafah,37,,14203
+UAE,New South Wales,5,,10635
+UAE,Quebec,2,,1325
+UAE,Quintana Roo,2,,5374
+UAE,Ras Al Khaimah,145,,8894
+UAE,Ruwais Industrial City,6,,40
+UAE,Shamal,1,,0
+UAE,Sharjah,780,,6416
+UAE,South Aegean,2,,5704
+UAE,South Australia,1,,172
+UAE,Tenerife,3,,4344
+UAE,Thásos,1,,218
+UAE,Tuscany,6,,35745
+UAE,Umm Al Quwain,105,4.46,791
+UAE,Valencian Community,2,,1054
+UAE,Veneto,7,,30751
+UAE,Victoria,1,,257
+UAE,Western Australia,1,,773
+UAE,Yas Island,22,,4125
+UAE,Zakynthos,2,,256
