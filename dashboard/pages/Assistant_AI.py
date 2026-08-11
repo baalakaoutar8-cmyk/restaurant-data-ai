@@ -1,11 +1,34 @@
 import os
 import sys
+import urllib.parse
 import streamlit as st
+from dotenv import load_dotenv
+from sqlalchemy import create_engine
+
+# Import direct du pipeline RAG (comme le fait chatbot.py)
+from llm.rag import run_rag_pipeline
+
+load_dotenv()
 
 # Configuration du chemin racine du projet
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
+
+# --- INITIALISATION BDD (Identique à chatbot.py) ---
+@st.cache_resource
+def get_db_engine():
+    DB_USER = os.getenv("DB_USER", "postgres")
+    DB_PASSWORD = os.getenv("DB_PASSWORD", "1234")
+    DB_HOST = os.getenv("DB_HOST", "localhost")
+    DB_PORT = os.getenv("DB_PORT", "5432")
+    DB_NAME = os.getenv("DB_NAME", "restaurants_db")
+
+    password_encoded = urllib.parse.quote_plus(DB_PASSWORD)
+    DATABASE_URL = f"postgresql://{DB_USER}:{password_encoded}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+    return create_engine(DATABASE_URL)
+
+engine = get_db_engine()
 
 # --- CONFIGURATION DE LA PAGE ---
 st.set_page_config(
@@ -13,6 +36,10 @@ st.set_page_config(
     page_icon="👑",
     layout="wide"
 )
+
+# --- INITIALISATION DE L'HISTORIQUE DE CHAT ---
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
 # --- STYLES CSS : TEXTES AGRANDIS & BARRE DE CHAT REHAUSSÉE ---
 st.markdown("""
@@ -107,20 +134,20 @@ st.markdown("""
     background-color: #FFFFFF !important;
     border: 2px solid #CBB265 !important;
     border-radius: 16px !important;
-    bottom: 50px !important; /* Remonte la barre plus haut sur l'écran */
+    bottom: 50px !important;
     padding: 8px !important;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08) !important;
 }
 
 [data-testid="stChatInput"] textarea {
     color: #1A1A1A !important;
-    font-size: 1.2rem !important; /* Ecriture du message plus grande */
+    font-size: 1.2rem !important;
     line-height: 1.5 !important;
 }
 
 [data-testid="stChatInput"] textarea::placeholder {
     color: #666666 !important;
-    font-size: 1.15rem !important; /* Placeholder plus grand */
+    font-size: 1.15rem !important;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -162,10 +189,28 @@ with col3:
 st.markdown("<br>", unsafe_allow_html=True)
 
 # Zone de chat
-prompt = st.chat_input("💭 Demandez conseil à votre Concierge (ex: Quel est le meilleur restaurant italien à Casablanca ?)")
+prompt_input = st.chat_input("💭 Demandez conseil à votre Concierge (ex: Quel est le meilleur restaurant italien à Casablanca ?)")
 
-if prompt_selected:
-    prompt = prompt_selected
+active_prompt = prompt_selected or prompt_input
 
-if prompt:
-    st.write(f"**Vous :** {prompt}")
+# --- AFFICHAGE DE L'HISTORIQUE DE CONVERSATION ---
+for msg in st.session_state.messages:
+    if msg["role"] == "user":
+        st.markdown(f"**Vous :** {msg['content']}")
+    else:
+        st.markdown(f"**⚜️ Concierge :**\n\n{msg['content']}")
+
+# --- EXÉCUTION DE LA REQUÊTE ---
+if active_prompt:
+    # 1. Sauvegarder et afficher la question de l'utilisateur
+    st.session_state.messages.append({"role": "user", "content": active_prompt})
+    st.markdown(f"**Vous :** {active_prompt}")
+
+    # 2. Exécuter le pipeline RAG directement
+    with st.spinner("⚜️ Le Concierge consulte la base de données..."):
+        try:
+            response = run_rag_pipeline(active_prompt, engine)
+            st.session_state.messages.append({"role": "assistant", "content": response})
+            st.markdown(f"**⚜️ Concierge :**\n\n{response}")
+        except Exception as e:
+            st.error(f"❌ Erreur lors de la réponse du Concierge : {e}")
